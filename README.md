@@ -1,2 +1,2 @@
-# Todo-List-
- Full-featured To-Do List app built with Laravel, Blade, and MySQL — includes login, categories, and task states.
+# QucikBuy App
+Laravel 11 RESTful API for a multi-store e-commerce backend with Sanctum auth, roles, and order/cart management.
